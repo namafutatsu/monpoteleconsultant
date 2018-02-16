@@ -4,24 +4,19 @@ menu:
   Archives: /archives
   Tags: /tags
   Categories: /categories
-  Github:
-    url: https://github.com/klugjo/hexo-theme-clean-blog
-    icon: github
 
 # Title on top left of menu. Leave empty to use main blog title
-menu_title: Configurable Title
+menu_title: Accueil
 
 # URL of the Home page image
-index_cover: http://www.codeblocq.com/assets/projects/hexo-theme-clean-blog/img/home-bg.jpg
+index_cover: /images/home-bg.jpg
 
 # Default post title
-default_post_title: Untitled
+default_post_title: Sans Titre
 
 # Comments. Choose one by filling up the information
 comments:
-  # Disqus comments
   disqus_shortname:
-  # Facebook comments
   facebook:
     appid:
     comment_count: 5
@@ -40,7 +35,7 @@ favicon:
 twitter_url:
 twitter_handle:
 facebook_url:
-github_url: https://github.com/klugjo/hexo-theme-clean-blog
+github_url:
 gitlab_url:
 linkedin_url:
 mailto:
