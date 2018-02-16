@@ -72,4 +72,9 @@ theme: clean-blog
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: rsync
+  host: myserver
+  user: victor
+  root: /home/victor/projects/monpoteleconsultant.fr/dist
+  delete: true
+  verbose: true
