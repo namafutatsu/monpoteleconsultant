@@ -9,7 +9,7 @@ timezone: Europe/Paris
 # URL
 url: https://monpoteleconsultant.fr
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year-:monthè:day-:title/
 permalink_defaults:
 
 # Directory
